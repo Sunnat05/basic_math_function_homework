@@ -1,6 +1,7 @@
 def main(a):
     from math import pi
-    return pi(a)
+    a=pi
+    return a
 print(main(4))
 # Create a function called main.
 # Create function arguments a.
